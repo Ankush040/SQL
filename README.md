@@ -19,6 +19,4 @@ Wicketkeeper: Define criteria for choosing the two best wicketkeepers for the T2
 
 Data Analysis: Analyze IPL data to identify players who meet the specified criteria for each category.
 
-Additional Questions: Answer various questions related to IPL data analysis.
-
 Visualizations: Create visual representations, including graphs, tables, and charts, to present our findings to the team management before the auction.
